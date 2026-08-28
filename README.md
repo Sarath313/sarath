@@ -29,7 +29,7 @@ I am a **Python Developer** currently working at **Stackly**. I specialize in bu
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/sarath-balaji-43b28a340/)
+ 
 
 
 ## 🌐 Socials:
